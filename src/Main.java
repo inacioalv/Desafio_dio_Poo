@@ -17,6 +17,7 @@ public class Main {
         mentoria.setTitulo("Mentoria java");
         mentoria.setDescricao("Descrição java");
         mentoria.setData(LocalDate.now());
+        mentoria.calcularXp();
 
         System.out.println(mentoria);
 
