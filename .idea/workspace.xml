@@ -4,16 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b85df1ef-3ed9-4c39-b868-94ce2bb763c7" name="Changes" comment="Mentoria e Curso">
-      <change afterPath="$PROJECT_DIR$/src/br/com/inacio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/inacio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/inacio/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="b85df1ef-3ed9-4c39-b868-94ce2bb763c7" name="Changes" comment="Dev e Bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-poo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-poo/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-poo/br/com/inacio/dominio/Curso.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-poo/br/com/inacio/dominio/Curso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/desafio-dio-poo/br/com/inacio/dominio/Mentoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/desafio-dio-poo/br/com/inacio/dominio/Mentoria.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/inacio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/inacio/dominio/Curso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/inacio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/inacio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/inacio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/inacio/dominio/Mentoria.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667052262323</updated>
       <workItem from="1667052282191" duration="3397000" />
-      <workItem from="1667066880099" duration="2077000" />
+      <workItem from="1667066880099" duration="6209000" />
+      <workItem from="1667138657569" duration="1848000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1667052560459</created>
@@ -105,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667054591970</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dev e Bootcamp">
+      <created>1667071511364</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667071511364</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,6 +129,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="Mentoria e Curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e Curso" />
+    <MESSAGE value="Dev e Bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev e Bootcamp" />
   </component>
 </project>

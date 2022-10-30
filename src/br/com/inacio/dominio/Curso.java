@@ -28,7 +28,6 @@ public class Curso extends  Conteudo {
                 "titulo='" + getTitulo() + '\'' +
                 ", descricao='" + getDescricao() + '\'' +
                 ", cargaHorario=" + cargaHorario +
-                ", calcularXp=" + calcularXp() +
                 '}';
     }
 
